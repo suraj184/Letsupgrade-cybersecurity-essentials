@@ -1,0 +1,9 @@
+
+Q1)mail servers of IBM and Wipro
+Ans:- IBM.com mail servers:-
+      1)ibm.com MX preference = 5, mail exchanger = mx0b-001b2d01.pphosted.com
+      2)ibm.com MX preference = 5, mail exchanger = mx0a-001b2d01.pphosted.com
+      Wipro.com mail servers:-
+      1)wipro.com MX preference = 0, mail exchanger = wipro-com.mail.protection.outlook.com
+ 
+ Q2)
